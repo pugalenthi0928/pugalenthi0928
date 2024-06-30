@@ -4,12 +4,16 @@
 - **Artificial Intelligence and Machine Learning:** Exploring advanced algorithms and developing intelligent solutions.
 - **Space Exploration Technologies:** Building innovative technologies to explore and understand space.
 - **Entrepreneurship and Startups:** Creating and scaling startups, focusing on technology and finance.
-- **Financial Modeling and Analysis:** Applying advanced analytical techniques to solve financial problems.
 
 🌱 I’m currently learning:
 - **Advanced AI and Machine Learning techniques:** Delving deeper into neural networks, deep learning, and AI-driven applications.
-- **Building scalable web applications:** Using React for frontend development and Firebase for backend services.
 - **Business strategies for tech startups:** Learning how to grow and manage successful technology businesses.
+
+🎙️ I’m building my own podcast:
+- **Podcast Name:** Players Playbook
+- **Description:** Exploring various life strategies and interviewing experts from different fields to uncover their success secrets.
+- **Focus Areas:** AI, machine learning, entrepreneurship, finance, and space exploration.
+- **Stay Tuned:** Follow me on [Twitter](https://twitter.com/Pugalenthi47745) for updates.
 
 💞️ I’m looking to collaborate on:
 - **AI and machine learning projects:** Working on innovative AI solutions that can make a difference.
