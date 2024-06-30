@@ -4,6 +4,7 @@
 - **Artificial Intelligence and Machine Learning:** Exploring advanced algorithms and developing intelligent solutions.
 - **Space Exploration Technologies:** Building innovative technologies to explore and understand space.
 - **Entrepreneurship and Startups:** Creating and scaling startups, focusing on technology and finance.
+- **Robotics:** Enthusiastic about developing and programming robotic systems for various applications.
 
 🌱 I’m currently learning:
 - **Advanced AI and Machine Learning techniques:** Delving deeper into neural networks, deep learning, and AI-driven applications.
