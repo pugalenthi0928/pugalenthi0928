@@ -8,9 +8,9 @@ I work across AI data and evaluation, automated planning, applied machine learni
 
 ### [Forge](https://github.com/pugalenthi0928/training-data-factory)
 
-A training data engine for turning source material into generated datasets, quality checks and benchmark artifacts through one end-to-end pipeline.
+A deployed training-data engine that turns source material into content-addressed releases with governance, deduplication, contamination controls, source-isolated splits and downloadable evidence.
 
-Current engineering focus: source-aware splits, contamination controls, independent benchmarks and release-grade provenance.
+Live system: 12 declared stages, 7 enforced release gates and 242 automated tests.
 
 [Source](https://github.com/pugalenthi0928/training-data-factory) | [Live demo](https://training-data-factory-production.up.railway.app/) | [Technical overview](https://pugalenthi0928.github.io/training-data-factory/technical.html)
 
