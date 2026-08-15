@@ -12,7 +12,7 @@ A training data engine for turning source material into generated datasets, qual
 
 Current engineering focus: source-aware splits, contamination controls, independent benchmarks and release-grade provenance.
 
-[Source](https://github.com/pugalenthi0928/training-data-factory) | [Demo](https://pugalenthi0928.github.io/training-data-factory/) | [Technical overview](https://pugalenthi0928.github.io/training-data-factory/technical.html)
+[Source](https://github.com/pugalenthi0928/training-data-factory) | [Live demo](https://training-data-factory-production.up.railway.app/) | [Technical overview](https://pugalenthi0928.github.io/training-data-factory/technical.html)
 
 ## What I work on
 
