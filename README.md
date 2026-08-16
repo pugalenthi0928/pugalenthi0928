@@ -6,6 +6,14 @@ I work across AI data and evaluation, automated planning, applied machine learni
 
 ## Selected work
 
+### [Adaptive Planning Lab](https://github.com/pugalenthi0928/adaptive-planning-lab)
+
+A deterministic multi-agent planning lab that shows how a delay breaks a collision-free plan, isolates the affected agents, and validates a selective recovery.
+
+Current evidence: three bounded planning strategies, 70 automated tests, 1,200 seeded cases, 90% coverage, and committed benchmark and scaling records.
+
+[Source](https://github.com/pugalenthi0928/adaptive-planning-lab) | [Live demo](https://adaptive-planning-lab.pugalenthi2000.chatgpt.site) | [Verification](https://github.com/pugalenthi0928/adaptive-planning-lab/blob/main/docs/evidence/milestone-6-verification.md)
+
 ### [Forge](https://github.com/pugalenthi0928/training-data-factory)
 
 A deployed training-data engine that turns source material into content-addressed releases with governance, deduplication, contamination controls, source-isolated splits and downloadable evidence.
