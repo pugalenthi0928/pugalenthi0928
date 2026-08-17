@@ -1,10 +1,18 @@
 # Pugalenthi Magendran
 
-Applied AI engineer in Melbourne building evaluated AI systems, data pipelines and production workflows.
+Applied AI engineer in Melbourne building inspectable AI systems, data pipelines and decision infrastructure.
 
-I work across AI evaluation, data infrastructure, automated planning and production software. I care about systems that are testable, traceable and useful beyond the demo.
+I work across AI evaluation, evidence systems, automated planning and production software. My portfolio currently documents **504 automated tests across five engineered systems**, plus a supervised foundation-model research project.
 
 ## Selected work
+
+### [ClearCurrent water evidence](https://pugalenthi-magendran.pugalenthi2000.chatgpt.site/projects/clearcurrent-water-quality)
+
+Evidence-first water-quality decision support for Victoria. It preserves authority, freshness, missing evidence and conflicts instead of turning incomplete inputs into a reassuring status.
+
+Current evidence: 9,656 attributed EPA Victoria historical records ingested, 39 latest historical site identifiers, six deterministic failure replays and 35 automated tests. The operational replay inputs are explicitly synthetic; the system is not an EPA forecast or safety certification.
+
+[Case study](https://pugalenthi-magendran.pugalenthi2000.chatgpt.site/projects/clearcurrent-water-quality) | [Public dataset](https://discover.data.vic.gov.au/dataset/beach-report-enterococci-data)
 
 ### [AI Change Evidence Engine](https://github.com/pugalenthi0928/ai-change-evidence-engine)
 
@@ -41,10 +49,10 @@ Current evidence: four foundation models, three retinal benchmarks and a best re
 ## Engineering focus
 
 - Evaluated AI systems and low-label model adaptation
-- Training-data pipelines, provenance and release controls
+- Data pipelines, provenance and release controls
 - Search, planning and multi-agent coordination
-- APIs, automation and operational AI workflows
-- Evidence, observability and failure-aware system design
+- APIs, automation and operational decision systems
+- Evidence, observability and failure-aware design
 
 ## Background
 
