@@ -38,9 +38,9 @@ A deterministic multi-agent planning laboratory that shows how a delay breaks a 
 
 A webhook-driven evidence engine that verifies and correlates GitHub change events before evaluating eleven explicit requirements. Merge state, scope, approval and workflow results remain separate facts.
 
-**Current evidence:** 21 automated tests, HMAC-authenticated ingress, retry-safe D1 persistence, exact repository-and-commit correlation and deterministic evidence snapshots. The public environment demonstrates the implementation; it is not evidence of production adoption or APRA compliance.
+**Current evidence:** 21 automated tests, HMAC-authenticated ingress, retry-safe D1 persistence, exact repository-and-commit correlation and deterministic evidence snapshots. A bounded 100-release local Miniflare benchmark processed 400 operations at 14.67 operations/second; it is not a production load test. The public environment demonstrates the implementation, not production adoption or APRA compliance.
 
-[Open the system](https://ai-change-evidence-engine.pugalenthi2000.chatgpt.site) · [Read the case study](https://pugalenthimagendran.com/projects/ai-change-evidence-engine) · [Read the threat model](https://github.com/pugalenthi0928/ai-change-evidence-engine/blob/main/docs/threat-model.md) · [View CI](https://github.com/pugalenthi0928/ai-change-evidence-engine/actions)
+[Open the system](https://ai-change-evidence-engine.pugalenthi2000.chatgpt.site) · [Read the case study](https://pugalenthimagendran.com/projects/ai-change-evidence-engine) · [Inspect the benchmark](https://github.com/pugalenthi0928/ai-change-evidence-engine/blob/main/docs/benchmarks/2026-08-17-local-d1.md) · [Read the threat model](https://github.com/pugalenthi0928/ai-change-evidence-engine/blob/main/docs/threat-model.md) · [View CI](https://github.com/pugalenthi0928/ai-change-evidence-engine/actions)
 
 ### [Retinal foundation-model evaluation](https://github.com/pugalenthi0928/retinal-foundation-model-evaluation)
 
