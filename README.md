@@ -6,13 +6,13 @@ I work across AI evaluation, data infrastructure, automated planning and product
 
 ## Selected work
 
-### AI Change Evidence Engine
+### [AI Change Evidence Engine](https://github.com/pugalenthi0928/ai-change-evidence-engine)
 
 A webhook-driven assurance system that verifies and correlates GitHub change events before evaluating eleven explicit evidence requirements. Unknown evidence stays unknown; merge state, scope, approval and workflow results remain separate facts.
 
 Current evidence: 21 automated tests, authenticated webhook ingress, retry-safe persistence, exact repository-and-SHA correlation and deterministic evidence snapshots.
 
-[Live system](https://ai-change-evidence-engine.pugalenthi2000.chatgpt.site) | [Case study](https://pugalenthi-magendran.pugalenthi2000.chatgpt.site/projects/ai-change-evidence-engine)
+[Source](https://github.com/pugalenthi0928/ai-change-evidence-engine) | [Live system](https://ai-change-evidence-engine.pugalenthi2000.chatgpt.site) | [Case study](https://pugalenthi-magendran.pugalenthi2000.chatgpt.site/projects/ai-change-evidence-engine)
 
 ### [Forge training-data engine](https://github.com/pugalenthi0928/training-data-factory)
 
