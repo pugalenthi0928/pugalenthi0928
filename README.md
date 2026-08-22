@@ -11,12 +11,21 @@ I turn ambiguous technical problems into inspectable AI systems, secure backend 
 
 | System | Engineering signal | Inspect |
 | --- | --- | --- |
+| **SpectraShift** | Hyperspectral transfer, wavelength-aware foundation models, calibration and failure analysis | [Case study](https://pugalenthimagendran.com/projects/spectrashift) · [Source](https://github.com/pugalenthi0928/spectrashift) · [Real-data evidence](https://github.com/pugalenthi0928/spectrashift/tree/main/results/oxhyper-mini) |
 | **Forge** | Applied AI, governed data pipelines, release integrity | [Live system](https://training-data-factory-production.up.railway.app/) · [Case study](https://pugalenthimagendran.com/projects/forge) · [Source](https://github.com/pugalenthi0928/training-data-factory) |
 | **Adaptive Planning Lab** | Algorithms, simulation, deterministic recovery | [Live lab](https://adaptive-planning-lab.pugalenthi2000.chatgpt.site) · [Case study](https://pugalenthimagendran.com/projects/adaptive-planning-lab) · [Source](https://github.com/pugalenthi0928/adaptive-planning-lab) |
 | **AI Change Evidence Engine** | Secure event ingestion, exact correlation, evidence systems | [Live system](https://ai-change-evidence-engine.pugalenthi2000.chatgpt.site) · [Case study](https://pugalenthimagendran.com/projects/ai-change-evidence-engine) · [Source](https://github.com/pugalenthi0928/ai-change-evidence-engine) |
 | **Retinal Foundation Model Evaluation** | Model evaluation, low-label transfer, research provenance | [Research case](https://pugalenthimagendran.com/projects/retinal-disease-classifier) · [Source](https://github.com/pugalenthi0928/retinal-foundation-model-evaluation) |
 
 ## Flagship evidence
+
+### [SpectraShift hyperspectral foundation-model evaluation](https://github.com/pugalenthi0928/spectrashift)
+
+A wavelength-aware benchmark testing whether a pretrained remote-sensing model transfers to 285-band EMIT imagery under limited labels. It uses source-group-safe splits, transparent baselines, calibration metrics, failure preservation and cited evidence retrieval.
+
+**Current evidence:** 27 automated tests, all 285 sensor bands retained, 111.2M frozen parameters and only 2,307 trainable parameters. On the held-out tile, DOFA improved hematite AUPRC from 0.266 to 0.533 versus spectral-angle mapping. Its ECE rose to 0.776 and two threshold maps became all-positive, so this is a representation-transfer result, not a deployment or mineral-deposit claim.
+
+[Read the case study](https://pugalenthimagendran.com/projects/spectrashift) · [Inspect the real-data result](https://github.com/pugalenthi0928/spectrashift/tree/main/results/oxhyper-mini) · [View CI](https://github.com/pugalenthi0928/spectrashift/actions)
 
 ### [Forge training-data engine](https://github.com/pugalenthi0928/training-data-factory)
 
